@@ -11,10 +11,13 @@
 <p>Muda de "Master" para "Main".</p>
 
 <img src="img/i5.png">
-<p>Adiciona os arquivos alterados para ser feito o commit"</p>
+<p>Adiciona os arquivos alterados para ser feito o commit</p>
 
 <img src="img/i6.png">
 <p>Especifica as alterações feitas no arquivo auxiliando no versionamento.</p>
 
 <img src="img/i7.png">
 <p>Sobe o commit para o repositório do git hub.</p>
+
+<img src="img/i8.png">
+<p>Sincronizando as alteerações no git hub</p>
