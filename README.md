@@ -20,4 +20,4 @@
 <p>Sobe o commit para o repositório do git hub.</p>
 
 <img src="img/i8.png">
-<p>Sincronizando as alteerações no git hub</p>
+<p>Sincronizando as alterações no git hub</p>
